@@ -1,4 +1,4 @@
-## Hello There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hello There 👋
 
 ### I am Arga Satya Mulyono
 - I'm currently learning Web Development(Back-End).
